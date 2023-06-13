@@ -1,0 +1,11 @@
+.vscode
+build
+
+*.o
+*.so
+
+*.der
+*.pem
+*.pub
+
+keys.cpp
